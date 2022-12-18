@@ -1,0 +1,34 @@
+.elementor-20185 .elementor-element.elementor-element-45e4c3d5 > .elementor-container{min-height:350px;}.elementor-20185 .elementor-element.elementor-element-45e4c3d5:not(.elementor-motion-effects-element-type-background), .elementor-20185 .elementor-element.elementor-element-45e4c3d5 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#020F51;}.elementor-20185 .elementor-element.elementor-element-45e4c3d5{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:30px;margin-bottom:0px;padding:40px 0px 60px 0px;}.elementor-20185 .elementor-element.elementor-element-45e4c3d5 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-20185 .elementor-element.elementor-element-3ced72b9{text-align:center;}.elementor-20185 .elementor-element.elementor-element-3ced72b9 .elementor-heading-title{color:#FBF8CE;font-family:"Open Sans", Sans-serif;font-size:38px;font-weight:700;}.elementor-20185 .elementor-element.elementor-element-6d2430a9.elementor-view-stacked .elementor-icon{background-color:#ffffff;}.elementor-20185 .elementor-element.elementor-element-6d2430a9.elementor-view-framed .elementor-icon, .elementor-20185 .elementor-element.elementor-element-6d2430a9.elementor-view-default .elementor-icon{fill:#ffffff;color:#ffffff;border-color:#ffffff;}.elementor-20185 .elementor-element.elementor-element-6d2430a9{--icon-box-icon-margin:10px;}.elementor-20185 .elementor-element.elementor-element-6d2430a9 .elementor-icon-box-wrapper{text-align:center;}.elementor-20185 .elementor-element.elementor-element-6d2430a9 .elementor-icon-box-title{margin-bottom:5px;color:#ffffff;}.elementor-20185 .elementor-element.elementor-element-6d2430a9 .elementor-icon-box-title, .elementor-20185 .elementor-element.elementor-element-6d2430a9 .elementor-icon-box-title a{font-family:"Open Sans", Sans-serif;font-size:32px;font-weight:700;}.elementor-20185 .elementor-element.elementor-element-6d2430a9 .elementor-icon-box-description{color:#ffffff;font-family:"Yanone Kaffeesatz", Sans-serif;font-size:19px;font-weight:500;line-height:1.2em;}.elementor-20185 .elementor-element.elementor-element-3af7a26b.elementor-view-stacked .elementor-icon{background-color:#ffffff;}.elementor-20185 .elementor-element.elementor-element-3af7a26b.elementor-view-framed .elementor-icon, .elementor-20185 .elementor-element.elementor-element-3af7a26b.elementor-view-default .elementor-icon{fill:#ffffff;color:#ffffff;border-color:#ffffff;}.elementor-20185 .elementor-element.elementor-element-3af7a26b{--icon-box-icon-margin:10px;}.elementor-20185 .elementor-element.elementor-element-3af7a26b .elementor-icon-box-wrapper{text-align:center;}.elementor-20185 .elementor-element.elementor-element-3af7a26b .elementor-icon-box-title{margin-bottom:5px;color:#ffffff;}.elementor-20185 .elementor-element.elementor-element-3af7a26b .elementor-icon-box-title, .elementor-20185 .elementor-element.elementor-element-3af7a26b .elementor-icon-box-title a{font-family:"Open Sans", Sans-serif;font-size:32px;font-weight:700;}.elementor-20185 .elementor-element.elementor-element-3af7a26b .elementor-icon-box-description{color:#ffffff;font-family:"Yanone Kaffeesatz", Sans-serif;font-size:19px;font-weight:500;line-height:1.2em;}.elementor-20185 .elementor-element.elementor-element-b98f8ce.elementor-view-stacked .elementor-icon{background-color:#ffffff;}.elementor-20185 .elementor-element.elementor-element-b98f8ce.elementor-view-framed .elementor-icon, .elementor-20185 .elementor-element.elementor-element-b98f8ce.elementor-view-default .elementor-icon{fill:#ffffff;color:#ffffff;border-color:#ffffff;}.elementor-20185 .elementor-element.elementor-element-b98f8ce{--icon-box-icon-margin:10px;}.elementor-20185 .elementor-element.elementor-element-b98f8ce .elementor-icon-box-wrapper{text-align:center;}.elementor-20185 .elementor-element.elementor-element-b98f8ce .elementor-icon-box-title{margin-bottom:5px;color:#ffffff;}.elementor-20185 .elementor-element.elementor-element-b98f8ce .elementor-icon-box-title, .elementor-20185 .elementor-element.elementor-element-b98f8ce .elementor-icon-box-title a{font-family:"Open Sans", Sans-serif;font-size:32px;font-weight:700;}.elementor-20185 .elementor-element.elementor-element-b98f8ce .elementor-icon-box-description{color:#ffffff;font-family:"Yanone Kaffeesatz", Sans-serif;font-size:19px;font-weight:500;line-height:1.2em;}/* Start custom CSS */.list-box ul {
+    margin-left: 110px !important;
+}
+
+a.learnmorebutton {
+    background-color: #2F2E67;
+    color: #fff;
+    width: 40% !important;
+    display: inline-block;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 15px;
+}
+a.applynowbutton {
+    background-color: orange;
+    color: #fff;
+    width: 58% !important;
+    display: inline-block;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 15px;
+}
+a.learnmorebutton:hover, a.applynowbutton:hover{
+    background-color: #54595F
+}
+
+@media (max-width: 768px){
+div#primary {
+    padding-top: 40px !important;
+}}/* End custom CSS */
